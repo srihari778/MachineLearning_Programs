@@ -36,6 +36,7 @@ The Maximally specific hypothesis for the traininginstance is
 ['sunny', 'warm', '?', 'strong', '?', '?']
 
 final.py
+
 initialization of specific_h and general_h
 ['sunny' 'warm' 'high' 'strong' 'warm' 'same']
 [['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?'], ['?', '?', '?', '?', '?', '?']]
